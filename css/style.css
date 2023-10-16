@@ -5,6 +5,21 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+body {
+    font-size: 16px;
+    color: #fff;
+    background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav{
+    background-color: rgb(234,184,28);
+}
+
+.navbar-brand a {
+    color: black;
+    text-decoration: none;
+  }
 /* header{
     display: flex;
     align-items: center;
