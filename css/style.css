@@ -12,13 +12,10 @@ body {
     font-family: 'Oxygen', sans-serif;
 }
 
-#header-nav{
+.navbar{
     background-color: rgb(234,184,28);
-}
-
-.navbar-brand a {
-    color: black;
-    text-decoration: none;
+    color: rgb(126,156,103)
+    ;
 }
 
 #logo-img{
